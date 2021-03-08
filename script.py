@@ -2,7 +2,6 @@ class script(object):
 
 
     START_MSG = """ <b>Hi {}
-
 Sorry.. This Bot Can Only Be Used in <i>Movie Club Group!...</i></b>"""
 
 
@@ -20,7 +19,7 @@ No need add each filter again!
 Bot will automatically search for your file and give links to that!
 </i>
 
-<b>© @TroJanzHEX</b>"""
+<b>© @MOVIECLUB_CHAT</b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Dulquer◢ ◤</b>
